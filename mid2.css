@@ -1,0 +1,83 @@
+.img{
+    width: 400px;
+    height: 400px;
+    margin: 100px;
+    float:left;
+}
+.h1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(8, 8, 8);
+}
+.h3{
+    font-size: 20px;
+    text-align: left;
+    color: rgb(143, 140, 140);
+    text-decoration: underline;
+  }
+.p{
+    font-size: 20px;
+    text-align: left;
+    color: rgb(143, 140, 140);
+    text-decoration: underline;
+  }
+  .block{
+    width: 300px;
+    height: 40px;
+    margin: 10px;
+    background-color: rgb(177, 184, 181);
+    float:left ;
+}
+.p1{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(243, 240, 240);
+  }
+  .p4{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(182, 176, 176);
+  }
+.block-1{
+    width: 300px;
+    height: 40px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    float:left ;
+}
+.block-2{
+    width: 300px;
+    height: 40px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    float:left ;
+}
+.p5{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  .block-3{
+    width: 300px;
+    height: 40px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    float:left ;
+}
+.p6{
+    font-size: 15px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+  }
+  .p7{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(125, 182, 235);
+  }
+  .block-4{
+    width: 300px;
+    height: 40px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    float:left ;
+}
